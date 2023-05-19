@@ -1,16 +1,14 @@
-### Hi there 👋
+### Ola Lindo/a 💙
 
-<!--
-**pyuri13/pyuri13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamam de Japa
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato pelo meu email 📧
+pedro.ishibata.oliveira@escola.br.gov.br
+
+@pyuri13
+
+![](https://media.tenor.com/Jv0rAN9UDJsAAAAM/funkykong-dance.gif)
